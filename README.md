@@ -105,7 +105,7 @@ tests/
 
 ## 👨‍💻 Pengembang
 
-**Davin Gabriel J**
+**Davin Gabriel J |**
 **Mahasiswa Sistem Informasi - Universitas Sriwijaya**
 🖥️ GitHub: [@Davin164](https://github.com/Davin164)
 
