@@ -31,6 +31,15 @@ Dilengkapi dengan fitur **CRUD**, **autentikasi role (Admin & User)**, dan **tam
 ---
 
 ## 📦 Instalasi
+
+Prasyarat
+Pastikan sistem Anda sudah terinstall:
+
+PHP >= 8.0
+Composer
+Node.js & NPM
+Git
+
 1. Clone repositori ini:
    ```bash
    git clone https://github.com/Davin164/Project-WebPerpustakaan-Laravel.git
