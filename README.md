@@ -92,15 +92,33 @@ Akses di browser: **[http://localhost:8000](http://localhost:8000)**
 ## 📊 Struktur Folder
 
 ```
-app/
-bootstrap/
-config/
-database/
-public/
-resources/
-routes/
-storage/
-tests/
+Project-WebPerpustakaan-Laravel/
+├── app/
+│   ├── Http/
+│   │   ├── Controllers/     # logic
+│   │   └── Middleware/      # Request filtering
+│   ├── Models/              # models
+│   └── Providers/           
+├── bootstrap/               # Framework bootstrap files
+├── config/                  
+├── database/
+│   ├── migrations/          # Database schema
+│   ├── seeders/             # Sample data
+│   └── database.sqlite      # SQLite database
+├── public/                  # Public assets (CSS, JS, images)
+├── resources/
+│   ├── views/               # Blade templates
+│   ├── css/                 # Stylesheets/CSS files
+│   └── js/                  # JavaScript files
+├── routes/
+│   ├── web.php              # Web routes
+│   └── api.php              # API routes
+├── storage/                 
+├── tests/                   
+├── .env.example             # Environment example
+├── composer.json            # PHP dependencies
+├── package.json             # NPM dependencies
+└── README.md                # Project documentation
 ```
 
 ---
