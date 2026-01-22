@@ -35,10 +35,10 @@ Dilengkapi dengan fitur **CRUD**, **autentikasi role (Admin & User)**, dan **tam
 Prasyarat
 Pastikan sistem Anda sudah terinstall:
 
-PHP >= 8.0
-Composer
-Node.js & NPM
-Git
+- PHP >= 8.0
+- Composer
+- Node.js & NPM
+- Git
 
 1. Clone repositori ini:
    ```bash
