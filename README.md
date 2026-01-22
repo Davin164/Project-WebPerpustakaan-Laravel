@@ -14,7 +14,7 @@ Dilengkapi dengan fitur **CRUD**, **autentikasi role (Admin & User)**, dan **tam
   - Tambah, edit, hapus, dan lihat data buku
 - 👥 **Manajemen Pengguna (Admin)**
 - 🧭 **Tampilan Responsif** menggunakan Bootstrap
-- ⚙️ **Struktur MVC** Laravel yang terorganisir
+- ⚙️ **Struktur** Laravel yang terorganisir
 
 ---
 
