@@ -1,6 +1,6 @@
 ## 📄 **README.md**
 
-# 📚 Project Web Perpustakaan Laravel
+# 📚 Project Web Perpustakaan - Laravel
 
 Aplikasi web sederhana yang masih bisa dikembangkan untuk mengelola data perpustakaan menggunakan **Laravel**.  
 Dilengkapi dengan fitur **CRUD**, **autentikasi role (Admin & User)**, dan **tampilan responsif dengan Bootstrap**.
