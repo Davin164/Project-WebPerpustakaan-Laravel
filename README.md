@@ -23,7 +23,7 @@ Dilengkapi dengan fitur **CRUD**, **autentikasi role (Admin & User)**, dan **tam
 | Komponen | Teknologi |
 |-----------|------------|
 | Framework | Laravel 10 |
-| Frontend | Bootstrap 5, Blade Template, Axios 1.7.4 (HTTP Client untuk AJAX request, Vite 6.0 (FrontEnd build tool) |
+| Frontend | Bootstrap 5, Blade Template, Axios 1.7.4 (HTTP Client untuk AJAX request, Vite JS 6.0 (FrontEnd build tool) |
 | Backend | PHP 8+ |
 | Database | SqLite 3 (bisa diintegrasikan) |
 | Version Control | Git & GitHub |
