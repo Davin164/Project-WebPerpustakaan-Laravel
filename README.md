@@ -130,7 +130,7 @@ Project-WebPerpustakaan-Laravel/
 
 ---
 
-## 👨‍💻 Pengembang
+## 👨‍💻 Developer
 
 **Davin Gabriel J |**
 **Mahasiswa Sistem Informasi - Universitas Sriwijaya**
